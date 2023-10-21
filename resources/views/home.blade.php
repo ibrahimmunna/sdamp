@@ -7,7 +7,7 @@
     <title>Admin</title>
     <!-- base:css -->
     <link rel="stylesheet" href="{{'backend/vendors/typicons.font/font/typicons.css'}}">
-    <link rel="stylesheet" href="{{'C:\xampp\htdocs\ffff\sdamp\resources\css\app.css'}}">
+    <link rel="stylesheet" href="{{'./css/app.css'}}">
     <!-- endinject --> 
     <!-- plugin css for this page -->
     <!-- End plugin css for this page -->
